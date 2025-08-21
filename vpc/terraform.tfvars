@@ -1,0 +1,13 @@
+region = "ap-south-1"
+vpc_name = "sample"
+vpc_cidr = "172.32.0.0/16"
+public_subnet_name = "public_subnet"
+public_subnet_cidr = "172.32.10.0/24"
+private_subnet_name = "private_subnet"
+private_subnet_cidr = "172.32.20.0/24"
+internet_gateway_name = "sample_vpc_igw"
+eip_name = "sample_vpc_eip"
+nat_gateway_name = "sample_vpc_natgw"
+public_route_table_name = "public_rt"
+private_route_table_name = "private_rt"
+

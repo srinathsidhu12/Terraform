@@ -1,0 +1,5 @@
+region        = "ap-south-1"
+instance_type = "t2.medium"
+ami           = "ami-021a584b49225376d"
+key           = "sample"
+instance_name = "instance_ec2_module"
